@@ -160,7 +160,7 @@ public class meshjoin {
 							}
 							catch(Exception exc)
 							{
-								//System.out.println("not so fast supplier");
+								
 							}
 							
 							// INSERTING IN CUSTOMER DIMENSION
@@ -172,7 +172,7 @@ public class meshjoin {
 							}
 							catch(Exception exc)
 							{
-								//System.out.println("not so fast customer");
+								
 							}
 							
 							// INSERTING IN STORE DIMENSION
@@ -183,7 +183,7 @@ public class meshjoin {
 							}
 							catch(Exception exc)
 							{
-								//System.out.println("not so fast customer");
+								
 							}
 							
 							
